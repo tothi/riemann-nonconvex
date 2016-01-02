@@ -1,0 +1,4 @@
+GNU Scientific Library (http://www.gnu.org/software/gsl/); sim.c
+Gnuplot (http://www.gnuplot.info/); runsim.sh: gnuplot
+ImageMagick (http://www.imagemagick.org/script/index.php); runsim.sh: convert
+MJPEG Tools (http://mjpeg.sourceforge.net/); runsim.sh: jpeg2yuv, mpeg2enc
