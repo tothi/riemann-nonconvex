@@ -36,7 +36,6 @@ SDATE=`date +%s`
 
 echo -n "[*] ############ SIM: b=$B vl=$1 vr=$2 DT_SHOT=$DT_SHOT SHOTS=$SHOTS SUM=$SUM ############ "
 
-TDIR2="${TDIR}/$3"
 rm -fr $TDIR2 > /dev/null 2>&1
 mkdir -p $TDIR2 > /dev/null 2>&1
 cd $TDIR2
@@ -95,6 +94,7 @@ echo
 ######################################################################
 
 function anim_with_symlink {
+  TDIR2="${TDIR}/$3"
   make_anim $1 $2 $MDIR/sim_${B}_$1_$2.mpg
   cd $MDIR
   ln -sf sim_${B}_$1_$2.mpg sim_$3.mpg
