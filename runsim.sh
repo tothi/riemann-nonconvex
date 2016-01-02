@@ -36,9 +36,10 @@ SDATE=`date +%s`
 
 echo -n "[*] ############ SIM: b=$B vl=$1 vr=$2 DT_SHOT=$DT_SHOT SHOTS=$SHOTS SUM=$SUM ############ "
 
-rm -fr $TDIR > /dev/null 2>&1
-mkdir -p $TDIR > /dev/null 2>&1
-cd $TDIR
+TDIR2="${TDIR}/$3"
+rm -fr $TDIR2 > /dev/null 2>&1
+mkdir -p $TDIR2 > /dev/null 2>&1
+cd $TDIR2
 
 GSL_RNG_SEED=$RANDOM $SDIR/sim sim.out $1 $2
 
