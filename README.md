@@ -14,7 +14,7 @@ Step-function (Riemann problem)
 View the comments in `sim.c` to adjust parameters. Feel free to
 customize `runsim.sh` to run the simulations needed.
 
-## Example
+## Examples
 Here are some result videos from example runs using common parameters
 and different initial densities.
 
