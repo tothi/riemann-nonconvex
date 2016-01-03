@@ -18,7 +18,7 @@ customize `runsim.sh` to run the simulations needed.
 Here are some result videos from example runs using common parameters
 and different initial densities.
 
-The common paramaters areÉ
+The common paramaters are:
 * number of lattice points on torus: `N=5000`
 * parameters in rates: `A=0`, `B=0.0176654`
 * time elapsed between shots taken: `DT_SHOT=5000`
