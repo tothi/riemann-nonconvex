@@ -9,7 +9,7 @@ The article was published in the
 [Online First section](http://link.springer.com/journal/10955/onlineFirst/page/1)).
 The official abstract page is available [here](http://link.springer.com/article/10.1007/s10955-016-1600-2).
 A read-only shared PDF version of the full text can be found
-[here](http://www.readcube.com/articles/10.1007/s10955-016-1600-2?author_access_token=GTB7cm6HV9zoJWP1_rN6NPe4RwlQNchNByi7wbcMAY4FizNqvrhqK12KP10_76IpPS8GvIEQ7Hn9abtNv7NNggfL_5rwk2MrQ570e0UYAyjwWxwHzpvsU47IqySZzLG4_VNVIl3a-7sdFPcOaHjYKA%3D%3D)
+[here](http://www.readcube.com/articles/10.1007/s10955-016-1600-2?author_access_token=GTB7cm6HV9zoJWP1_rN6NPe4RwlQNchNByi7wbcMAY4FizNqvrhqK12KP10_76IpPS8GvIEQ7Hn9abtNv7NNggfL_5rwk2MrQ570e0UYAyjwWxwHzpvsU47IqySZzLG4_VNVIl3a-7sdFPcOaHjYKA%3D%3D).
 
 
 ## Microscopic model
