@@ -5,8 +5,7 @@ This is a supplemental material to the article
 *Márton Balázs, Attila László Nagy, Bálint Tóth, István Tóth:*
 **Coexistence of Shocks and Rarefaction Fans: Complex Phase Diagram of a Simple Hyperbolic Particle System** *(2016)*.
 The article was published in the
-[Journal of Statistical Physics](http://link.springer.com/journal/10955) (now in the
-[Online First section](http://link.springer.com/journal/10955/onlineFirst/page/1)).
+[Journal of Statistical Physics, Volume 165, Issue 1, October 2016](http://link.springer.com/journal/10955/165/1).
 The official abstract page is available [here](http://link.springer.com/article/10.1007/s10955-016-1600-2).
 A read-only shared PDF version of the full text can be found
 [here](http://www.readcube.com/articles/10.1007/s10955-016-1600-2?author_access_token=GTB7cm6HV9zoJWP1_rN6NPe4RwlQNchNByi7wbcMAY4FizNqvrhqK12KP10_76IpPS8GvIEQ7Hn9abtNv7NNggfL_5rwk2MrQ570e0UYAyjwWxwHzpvsU47IqySZzLG4_VNVIl3a-7sdFPcOaHjYKA%3D%3D).
